@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1643308385 source:/home/ogi/Media/e2231389_HW3/main.cpp
+	<iostream>
+	<fstream>
+	"node.h"
+	"list.h"
+
+1643308385 /home/ogi/Media/e2231389_HW3/include/node.h
+
+1643308385 /home/ogi/Media/e2231389_HW3/include/list.h
+	"node.h"
+
+1643308385 source:/home/ogi/Media/e2231389_HW3/src/list.cpp
+	"list.h"
+	<iostream>
+
+1643308385 source:/home/ogi/Media/e2231389_HW3/src/node.cpp
+	<iostream>
+	"node.h"
+

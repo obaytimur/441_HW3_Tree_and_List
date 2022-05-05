@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1643297755 source:/home/ogi/Media/e2231389_HW3/main.cpp
+	<iostream>
+	<fstream>
+	"node.h"
+	"tree.h"
+
+1643297755 /home/ogi/Media/e2231389_HW3/include/node.h
+
+1643297755 /home/ogi/Media/e2231389_HW3/include/tree.h
+	"node.h"
+
+1643297755 source:/home/ogi/Media/e2231389_HW3/src/node.cpp
+	<iostream>
+	"node.h"
+
+1643297755 source:/home/ogi/Media/e2231389_HW3/src/tree.cpp
+	"tree.h"
+	<iostream>
+
